@@ -3,8 +3,7 @@
 
 
 Requisitos funcionais
-  O que vamos fazer
-
+  * testando
 
 
 Requisitos não funcionais
